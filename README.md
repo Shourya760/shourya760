@@ -21,7 +21,7 @@ I’m a **Full-Stack Developer** who enjoys turning ideas into clean, useful, an
   <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
   <img src="https://cdn.simpleicons.org/nodemon/76D04B" width="48" height="48" alt="Nodemon" />
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
   <img src="https://skillicons.dev/icons?i=git,github,vercel,canva" />
 </p>
 
